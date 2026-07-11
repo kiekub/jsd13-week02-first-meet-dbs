@@ -1,0 +1,18 @@
+    {
+        "plan_id": "65f200000000000000000001",
+        "plan_name": "monthly",
+        "duration": 30,
+        "price": 1999
+    }
+    {
+        "plan_id": "65f200000000000000000002",
+        "plan_name": "weekly",             
+        "duration": 7,
+        "price": 599
+    }
+    {
+        "plan_id": "65f200000000000000000003",
+        "plan_name": "daily",
+        "duration": 1,
+        "price": 99
+    }

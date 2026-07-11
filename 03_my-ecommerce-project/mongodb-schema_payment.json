@@ -1,0 +1,24 @@
+    {
+        "payment_id": "65f500000000000000000001",
+        "host_id": "65f300000000000000000001",
+        "amount": 1999.00,
+        "payment_method": "credit_card",
+        "payment_date": "2026-03-01T11:00:00Z",
+        "payment_status": "completed"
+    }
+    {
+        "payment_id": "65f500000000000000000002",
+        "host_id": "65f300000000000000000002",
+        "amount": 599.00,
+        "payment_method": "credit_card",
+        "payment_date": "2026-03-02T11:00:00Z",
+        "payment_status": "completed"
+    }
+    {
+        "payment_id": "65f500000000000000000003",
+        "host_id": "65f300000000000000000003",
+        "amount": 99.00,
+        "payment_method": "credit_card",
+        "payment_date": "2026-03-03T11:00:00Z",
+        "payment_status": "completed"
+    }

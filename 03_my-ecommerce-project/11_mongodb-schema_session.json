@@ -1,0 +1,28 @@
+    {
+        "session_id": "65f600000000000000000001",
+        "booking_id": "65f400000000000000000001",
+        "session_date": "2026-03-02T23:00:00Z",
+        "bedtime_status": "completed",    
+        "wake_status": "completed",
+        "confirmation_status": "confirmed",
+        "sleep_duration": 9
+
+    }
+    {
+        "session_id": "65f600000000000000000002",
+        "booking_id": "65f400000000000000000002",
+        "session_date": "2026-03-02T23:00:00Z",
+        "bedtime_status": "completed",    
+        "wake_status": "completed",
+        "confirmation_status": "confirmed",
+        "sleep_duration": 9
+    }
+    {
+        "session_id": "65f600000000000000000003",
+        "booking_id": "65f400000000000000000003",
+        "session_date": "2026-03-03T21:00:00Z",
+        "bedtime_status": "completed",    
+        "wake_status": "completed",
+        "confirmation_status": "confirmed",
+        "sleep_duration": 9
+    }
