@@ -7,7 +7,7 @@ db.host.deleteMany({});
 db.host.insertMany([
   {
         "_id": ObjectId("65f200000000000000000001"),
-        "name": "Film",
+        "name": "film",
         "email": "film@example.com",
         "password": "666-0101",
         "gender": "เคะ",
@@ -17,7 +17,7 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f200000000000000000002"),
-        "name": "Milk",
+        "name": "milk",
         "email": "milk@example.com",
         "password": "666-0102",
         "gender": "เมะ",
@@ -27,11 +27,81 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f300000000000000000003"),
-        "name": "Mint",
+        "name": "mint",
         "email": "mint@example.com",
         "password": "666-0103",
         "gender": "เคะ",
         "personality": "Kind",
+        "rating": 5.0,
+        "host_status": "active"
+  },
+  {
+        "_id": ObjectId("65f200000000000000000004"),
+        "name": "bonnie",
+        "email": "bonnie@example.com",
+        "password": "666-0104",
+        "gender": "เมะ",
+        "personality": "Gentle",
+        "rating": 4.9,
+        "host_status": "active"
+  },
+  {
+        "_id": ObjectId("65f200000000000000000005"),
+        "name": "mim",
+        "email": "mim@example.com",
+        "password": "666-0105",
+        "gender": "เคะ",
+        "personality": "Playful",
+        "rating": 4.8,
+        "host_status": "busy"
+  },
+  {
+        "_id": ObjectId("65f200000000000000000006"),
+        "name": "bear",
+        "email": "bear@example.com",
+        "password": "666-0106",
+        "gender": "เมะ",
+        "personality": "Calm",
+        "rating": 5.0,
+        "host_status": "active"
+  },
+  {
+        "_id": ObjectId("65f200000000000000000007"),
+        "name": "game",
+        "email": "game@example.com",
+        "password": "666-0107",
+        "gender": "เมะ",
+        "personality": "Cheerful",
+        "rating": 4.9,
+        "host_status": "active"
+  },
+  {
+        "_id": ObjectId("65f200000000000000000008"),
+        "name": "grace",
+        "email": "grace@example.com",
+        "password": "666-0108",
+        "gender": "เมะ",
+        "personality": "Mysterious",
+        "rating": 5.0,
+        "host_status": "busy"
+  },
+  {
+        "_id": ObjectId("65f200000000000000000009"),
+        "name": "winter",
+        "email": "winter@example.com",
+        "password": "666-0109",
+        "gender": "เคะ",
+        "personality": "Warm",
+        "rating": 5.0,
+        "host_status": "active"
+  },
+  {
+        "_id": ObjectId("65f200000000000000000010"),
+        "name": "gel",
+        "email": "gel@example.com",
+        "password": "666-0110",
+        "gender": "เมะ",
+        "personality": "Elegant",
         "rating": 5.0,
         "host_status": "active"
   }
