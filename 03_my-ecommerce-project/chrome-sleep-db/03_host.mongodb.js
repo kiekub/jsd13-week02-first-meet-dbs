@@ -7,7 +7,7 @@ db.host.deleteMany({});
 db.host.insertMany([
   {
         "_id": ObjectId("65f200000000000000000001"),
-        "name": "film",
+        "name": "Film",
         "email": "film@example.com",
         "password": "666-0101",
         "gender": "เคะ",
@@ -17,7 +17,7 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f200000000000000000002"),
-        "name": "milk",
+        "name": "Milk",
         "email": "milk@example.com",
         "password": "666-0102",
         "gender": "เมะ",
@@ -27,7 +27,7 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f300000000000000000003"),
-        "name": "mint",
+        "name": "Mint",
         "email": "mint@example.com",
         "password": "666-0103",
         "gender": "เคะ",
@@ -37,7 +37,7 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f200000000000000000004"),
-        "name": "bonnie",
+        "name": "Bonnie",
         "email": "bonnie@example.com",
         "password": "666-0104",
         "gender": "เมะ",
@@ -47,7 +47,7 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f200000000000000000005"),
-        "name": "mim",
+        "name": "Mim",
         "email": "mim@example.com",
         "password": "666-0105",
         "gender": "เคะ",
@@ -57,7 +57,7 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f200000000000000000006"),
-        "name": "bear",
+        "name": "Bear",
         "email": "bear@example.com",
         "password": "666-0106",
         "gender": "เมะ",
@@ -67,7 +67,7 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f200000000000000000007"),
-        "name": "game",
+        "name": "Game",
         "email": "game@example.com",
         "password": "666-0107",
         "gender": "เมะ",
@@ -77,7 +77,7 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f200000000000000000008"),
-        "name": "grace",
+        "name": "Grace",
         "email": "grace@example.com",
         "password": "666-0108",
         "gender": "เมะ",
@@ -87,7 +87,7 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f200000000000000000009"),
-        "name": "winter",
+        "name": "Winter",
         "email": "winter@example.com",
         "password": "666-0109",
         "gender": "เคะ",
@@ -97,7 +97,7 @@ db.host.insertMany([
   },
   {
         "_id": ObjectId("65f200000000000000000010"),
-        "name": "gel",
+        "name": "Gel",
         "email": "gel@example.com",
         "password": "666-0110",
         "gender": "เมะ",

@@ -7,7 +7,7 @@ db.user.deleteMany({});
 db.user.insertMany([
   {
         "_id": ObjectId("65f000000000000000000001"),
-        "name": "namtan",
+        "name": "Namtan",
         "email": "namtan@example.com",
         "password": "namtan0101",
         "bedtime": "22:00",
@@ -15,7 +15,7 @@ db.user.insertMany([
   },
   {
         "_id": ObjectId("65f000000000000000000002"),
-        "name": "love",
+        "name": "Love",
         "email": "love@example.com",
         "password": "love0102",
         "bedtime": "23:00",
@@ -23,7 +23,7 @@ db.user.insertMany([
   },
   {
         "_id": ObjectId("65f000000000000000000003"),
-        "name": "earnearn",
+        "name": "Earnearn",
         "email": "earnearn@example.com",
         "password": "earnearn0103",
         "bedtime": "21:00",
@@ -31,7 +31,7 @@ db.user.insertMany([
   },
   {
         "_id": ObjectId("65f000000000000000000004"),
-        "name": "emi",
+        "name": "Emi",
         "email": "emi@example.com",
         "password": "emi0104",
         "bedtime": "23:30",
@@ -39,7 +39,7 @@ db.user.insertMany([
   },
   {
         "_id": ObjectId("65f000000000000000000005"),
-        "name": "view",
+        "name": "View",
         "email": "view@example.com",
         "password": "view0105",
         "bedtime": "22:30",
@@ -47,7 +47,7 @@ db.user.insertMany([
   },
   {
         "_id": ObjectId("65f000000000000000000006"),
-        "name": "nicky",
+        "name": "Nicky",
         "email": "nicky@example.com",
         "password": "nicky0106",
         "bedtime": "00:00",
@@ -55,7 +55,7 @@ db.user.insertMany([
   },
   {
         "_id": ObjectId("65f000000000000000000007"),
-        "name": "dear",
+        "name": "Dear",
         "email": "dear@example.com",
         "password": "dear0107",
         "bedtime": "21:30",
@@ -63,7 +63,7 @@ db.user.insertMany([
   },
   {
         "_id": ObjectId("65f000000000000000000008"),
-        "name": "sita",
+        "name": "Sita",
         "email": "sita@example.com",
         "password": "sita0108",
         "bedtime": "23:30",
@@ -71,7 +71,7 @@ db.user.insertMany([
   },
   {
         "_id": ObjectId("65f000000000000000000009"),
-        "name": "karina",
+        "name": "Karina",
         "email": "karina@example.com",
         "password": "karina0109",
         "bedtime": "22:00",
